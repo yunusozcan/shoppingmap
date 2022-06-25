@@ -4,8 +4,8 @@ export default defineConfig({
   shopify: {
     defaultCountryCode: 'US',
     defaultLanguageCode: 'EN',
-    storeDomain: 'oxygenator.myshopify.com',
-    storefrontToken: '70faab4b482211c4167f94181a4ba4ed',
+    storeDomain: 'shoppingmap.myshopify.com',
+    storefrontToken: '945065b138e621d771fffc70519666d2',
     storefrontApiVersion: '2022-07',
   },
   session: CookieSessionStorage('__session', {
